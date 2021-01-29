@@ -1,0 +1,8 @@
+#
+# Nuke command by wxip#3544
+#
+# Made for SuppotBot from Emerald Services
+#
+
+nukeCommand: "nuke"
+nukeCommandDesc: "Command to nuke channel."
